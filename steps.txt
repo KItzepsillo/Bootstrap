@@ -6,3 +6,6 @@ npm i bootstrap
 
 npm i jquery popper
 
+npm install font-awesome
+
+npm install bootstrap-social
